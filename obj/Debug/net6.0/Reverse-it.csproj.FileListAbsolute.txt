@@ -1,0 +1,15 @@
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\bin\Debug\net6.0\Reverse-it.exe
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\bin\Debug\net6.0\Reverse-it.deps.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\bin\Debug\net6.0\Reverse-it.runtimeconfig.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\bin\Debug\net6.0\Reverse-it.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\bin\Debug\net6.0\Reverse-it.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\obj\Debug\net6.0\Reverse-it.csproj.AssemblyReference.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\obj\Debug\net6.0\Reverse-it.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\obj\Debug\net6.0\Reverse-it.AssemblyInfoInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\obj\Debug\net6.0\Reverse-it.AssemblyInfo.cs
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\obj\Debug\net6.0\Reverse-it.csproj.CoreCompileInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\obj\Debug\net6.0\Reverse-it.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\obj\Debug\net6.0\refint\Reverse-it.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\obj\Debug\net6.0\Reverse-it.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\obj\Debug\net6.0\Reverse-it.genruntimeconfig.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\ReverseIt\Reverse-it\obj\Debug\net6.0\ref\Reverse-it.dll
