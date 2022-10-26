@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\ReverseIt\\Reverse-it\\Reverse-it.csproj": {}
+    "/Users/michellemalfabon/Desktop/Codestack/Combine/Pulls/Reverse-it/Reverse-it.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\ReverseIt\\Reverse-it\\Reverse-it.csproj": {
+    "/Users/michellemalfabon/Desktop/Codestack/Combine/Pulls/Reverse-it/Reverse-it.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\ReverseIt\\Reverse-it\\Reverse-it.csproj",
+        "projectUniqueName": "/Users/michellemalfabon/Desktop/Codestack/Combine/Pulls/Reverse-it/Reverse-it.csproj",
         "projectName": "Reverse-it",
-        "projectPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\ReverseIt\\Reverse-it\\Reverse-it.csproj",
-        "packagesPath": "C:\\Users\\zac22\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\ReverseIt\\Reverse-it\\obj\\",
+        "projectPath": "/Users/michellemalfabon/Desktop/Codestack/Combine/Pulls/Reverse-it/Reverse-it.csproj",
+        "packagesPath": "/Users/michellemalfabon/.nuget/packages/",
+        "outputPath": "/Users/michellemalfabon/Desktop/Codestack/Combine/Pulls/Reverse-it/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zac22\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/michellemalfabon/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }
